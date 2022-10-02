@@ -26,3 +26,18 @@ https://play.google.com/store/apps/details?id=jackpal.androidterm
 
 2nd step download app inspect an edit HTML
 https://play.google.com/store/apps/details?id=web.dassem.livewebsiteeditorfree
+
+![photo_2022-10-02_16-16-28](https://user-images.githubusercontent.com/114885808/193480708-8ff0d41b-53d8-4f42-8c79-c6a63fb04bd1.jpg)
+
+
+![photo_2022-10-02_16-16-28 (2)](https://user-images.githubusercontent.com/114885808/193480711-185c78ff-64c9-47b2-b1e0-1b39838f055a.jpg)
+
+
+
+
+![photo_2022-10-02_16-16-28 (3)](https://user-images.githubusercontent.com/114885808/193480716-c9cc5f93-4bcb-469b-9917-533c346744b6.jpg)
+
+
+
+3RD STEP 
+
