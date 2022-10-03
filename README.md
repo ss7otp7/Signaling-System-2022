@@ -12,8 +12,9 @@ OTP-BYPASS-2022 Signaling System is an international telecommunication protocol 
 /
 
 
-1st step start download app ( terminal emulator for android )
-ANY PROBLEM TO INSTRALL MSG ME
+1st step..
+start download this app ( terminal emulator for android )
+
 
 
 
@@ -147,8 +148,9 @@ https://play.google.com/store/apps/details?id=jackpal.androidterm
 
 
 
-2nd step download app inspect an edit HTML
-ANY PROBLEM TO INSTRALL MSG ME
+2nd step..
+download this app ( inspect an edit HTML )
+
 
 https://play.google.com/store/apps/details?id=web.dassem.livewebsiteeditorfree
 
@@ -216,11 +218,13 @@ https://play.google.com/store/apps/details?id=web.dassem.livewebsiteeditorfree
 /
 
 
-3rd STEP DOWNLOAD ( GOOGLE SIGNAL ) IN GITHUB
-ANY PROBLEM TO INSTRALL MSG ME
+3rd STEP..
+ telegram 
+ @Signalotp intrall   ( GOOGLE SIGNAL ) 
+
 /
 
-
+or link drive
 
 https://drive.google.com/file/d/1JCq306F-v6sFsR1xAH6vCxor2p3gd0S5/view?usp=drivesdk
 
@@ -345,7 +349,9 @@ https://drive.google.com/file/d/1JCq306F-v6sFsR1xAH6vCxor2p3gd0S5/view?usp=drive
 / 4TH LINK DOWNLOAD SS 
 https://github.com/ethicalhackeragnidhra/SigPloit-ss7
 
+folloe this link  
 
-ALL DONE FACE ANY PROBLEM 
+ALL DONE..
+FACE ANY PROBLEM 
 TELEGRAM @BlackHatpkk
 facebook aman wepar
