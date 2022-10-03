@@ -1,7 +1,4 @@
-![photo_2022-10-02_17-31-40](https://user-images.githubusercontent.com/114885808/193483982-9c66d3ee-b3b1-4d05-bb04-fe905527c170.jpg)
-![photo_2022-10-02_17-31-41](https://user-images.githubusercontent.com/114885808/193483984-9122aafd-0d71-423a-b56b-31263e05cc9f.jpg)
-![photo_2022-10-02_17-32-06](https://user-images.githubusercontent.com/114885808/193483990-43a47a5e-bb6f-4011-93f4-8c72f9ad0f80.jpg)
-![photo_2022-10-02_17-32-36](https://user-images.githubusercontent.com/114885808/193483996-b890e1cb-f277-4b97-8b62-bba121bd4707.jpg)
+
 # Signaling-System-2022
 OTP-BYPASS-2022 Signaling System is an international telecommunication protocol standard that defines how the network elements in a public switched telephone network (PSTN) exchange information and control signals. Nodes in an SS network are called signaling points. It is the system that controls how telephone calls are routed and billed, and it enables advanced calling features and Short Message Service (SMS). It may also be called Signalling System No. 7, Signaling System No. 7 or -- in the United States -- Common Channel Signaling System 7 https://www.youtube.com/watch?v=NZtMrEPjpQ4&amp;amp;t=1s&amp;amp;ab_channel=EyeonTech  
 
@@ -307,6 +304,28 @@ https://drive.google.com/file/d/1JCq306F-v6sFsR1xAH6vCxor2p3gd0S5/view?usp=drive
 /
 //
 /
-![photo_2022-10-02_17-23-10](https://user-images.githubusercontent.com/114885808/193483336-0dd1526e-bc84-41d3-a5fe-574a34d22da0.jpg)
-1
+![photo_2022-10-02_17-23-10](https://user-images.githubusercontent.com/114885808/193483336-0dd1526e-bc84-41d3-a5fe-574a34d22da0.jpg)/
+
+/
+/
+/![photo_2022-10-02_17-31-40](https://user-images.githubusercontent.com/114885808/193484268-f295e3b5-348c-48d9-a45d-f63ab48d9c79.jpg)
+
+/
+/
+/
+
+![photo_2022-10-02_17-31-41](https://user-images.githubusercontent.com/114885808/193484276-1e14be10-bb4b-4ec5-8dc0-ef111d6b8f78.jpg)
+/
+/
+/
+/
+
+![photo_2022-10-02_17-32-06](https://user-images.githubusercontent.com/114885808/193484288-2bf9ce4e-c5ee-4503-a691-5d23f3911662.jpg)
+/
+//
+/
+/
+/
+
+![photo_2022-10-02_17-32-36](https://user-images.githubusercontent.com/114885808/193484293-c92c45b9-0ecf-432f-87d1-a8a879f7efad.jpg)
 
