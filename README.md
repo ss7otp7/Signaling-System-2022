@@ -135,5 +135,7 @@ https://drive.google.com/file/d/1JCq306F-v6sFsR1xAH6vCxor2p3gd0S5/view?usp=drive
 ![photo_2022-10-02_17-21-23](https://user-images.githubusercontent.com/114885808/193483042-c9fb457e-9ec2-4e69-935c-4cb767e42b13.jpg)
 
 
-B
+![photo_2022-10-02_17-21-56](https://user-images.githubusercontent.com/114885808/193483333-9bb76a54-a4f0-401b-a880-feeb0c452346.jpg)
+![photo_2022-10-02_17-23-10](https://user-images.githubusercontent.com/114885808/193483336-0dd1526e-bc84-41d3-a5fe-574a34d22da0.jpg)
+1
 
