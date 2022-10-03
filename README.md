@@ -13,6 +13,7 @@ OTP-BYPASS-2022 Signaling System is an international telecommunication protocol 
 
 
 1st step..
+/
 start download this app ( terminal emulator for android )
 
 
@@ -149,6 +150,7 @@ https://play.google.com/store/apps/details?id=jackpal.androidterm
 
 
 2nd step..
+/
 download this app ( inspect an edit HTML )
 
 
@@ -219,8 +221,9 @@ https://play.google.com/store/apps/details?id=web.dassem.livewebsiteeditorfree
 
 
 3rd STEP..
+ /
  telegram 
- @Signalotp intrall   ( GOOGLE SIGNAL ) 
+ @Signalotp intrall  ( GOOGLE SIGNAL ) 
 
 /
 
