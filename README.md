@@ -6,7 +6,7 @@ OTP-BYPASS-2022 Signaling System is an international telecommunication protocol 
 
 
 1st step start download app ( terminal emulator for android )
-
+ANY PROBLEM TO INSTRALL MSG ME
 
 
 
@@ -74,7 +74,7 @@ https://play.google.com/store/apps/details?id=jackpal.androidterm
 
 
 2nd step download app inspect an edit HTML
-
+ANY PROBLEM TO INSTRALL MSG ME
 
 https://play.google.com/store/apps/details?id=web.dassem.livewebsiteeditorfree
 
@@ -117,9 +117,23 @@ https://play.google.com/store/apps/details?id=web.dassem.livewebsiteeditorfree
 
 
 3RD STEP DOWNLOAD ( GOOGLE SIGNAL ) IN GITHUB
+ANY PROBLEM TO INSTRALL MSG ME
+
+
 
 https://drive.google.com/file/d/1JCq306F-v6sFsR1xAH6vCxor2p3gd0S5/view?usp=drivesdk
 
 
 
+![photo_2022-10-02_17-15-38](https://user-images.githubusercontent.com/114885808/193482808-35a89780-ac8d-4e11-963c-cb6d48955d74.jpg)
+![photo_2022-10-02_17-16-35](https://user-images.githubusercontent.com/114885808/193482824-46cd1394-fb4f-4c7b-a18c-44ac2bed9586.jpg)
+![photo_2022-10-02_17-17-14](https://user-images.githubusercontent.com/114885808/193482859-4f0d984f-4747-498c-991b-d88e37e8e206.jpg)
+![photo_2022-10-02_17-17-55](https://user-images.githubusercontent.com/114885808/193482906-20d9419d-e789-4b77-b4e4-5da7da9b062d.jpg)
+![photo_2022-10-02_17-19-18](https://user-images.githubusercontent.com/114885808/193482942-54dbaa31-977b-4160-b7ae-3e0bd10da7ee.jpg)
+![photo_2022-10-02_17-20-09](https://user-images.githubusercontent.com/114885808/193482969-493b7a8b-3e17-47a5-ba52-d17d80ff8c01.jpg)
+![photo_2022-10-02_17-20-45](https://user-images.githubusercontent.com/114885808/193482999-a7f3dfd2-1a2b-47b4-b02b-fc741d83616c.jpg)
+![photo_2022-10-02_17-21-23](https://user-images.githubusercontent.com/114885808/193483042-c9fb457e-9ec2-4e69-935c-4cb767e42b13.jpg)
+
+
+B
 
