@@ -359,3 +359,55 @@ ALL DONE..
 FACE ANY PROBLEM 
 TELEGRAM @BlackHatpkk
 facebook aman wepar
+/
+/
+/
+/
+/
+/
+//
+
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+
+/
+/
+/
+/
+/
+/
+/
+/
+
+/
+What is an SS7 attack?
+An SS7 attack is a security exploit that takes advantage of a weakness in the design of SS7 (Signaling System 7) to enable data theft, eavesdropping, text interception and location tracking
+
+Unlike other cyberattack methods, SS7 attacks can use a variety of vulnerabilities to perform malicious activities, most of which can be executed remotely from anywhere in the world. These techniques can grant attackers the ability to record and eavesdrop on conversations and gain access to text messages without being detected. SS7 attack variations can also enable location tracking, fraud and denial of service.
+
+How does an SS7 attack work?
+The SS7 protocol facilitates interoperability between networks in 2G and 3G wireless communications. It supports the exchange of information needed to make and receive mobile phone calls and text messages, tracks billing information and enables smartphone users to roam while traveling. SS7 networks were initially designed as a closed, trusted system between telecommunications providers. Providers also cooperated with government agencies to enable state surveillance, providing a great deal of user data to anyone granted SS7 access. When mobile devices and applications proliferated, another set of communications protocols was layered on top, creating an array of entry points and vulnerabilities through which hackers could access and manipulate private data.
+
+In 2014, security researchers in Germany publicized the weaknesses in SS7 by demonstrating that attackers could use man-in-the-middle attacks to track cell phone users' movements and communications and eavesdrop on conversations. In 2017, awareness increased when hackers transferred money from victims' bank accounts to their own by gaining SS7 access and rerouting the two-factor authentication codes intended to verify the account holders.
+
+![image](https://user-images.githubusercontent.com/114885808/193885578-4cdd420b-0f84-4f33-b104-0a8a62103454.png)
+
+
+
+
+//
+/
+/
+/The implications of SS7 vulnerabilities
+SS7 attacks can provide hackers with large amounts of quality information because of the surveillance elements built into the network. This capability makes it easy for network operators, governments, cybercriminals and hobbyists to track and compromise smartphones, but businesses can mitigate possible exposure by using best practices such as virtual private networks, encryption and security awareness training.
+
+Despite awareness around the problems with SS7, telecommunications providers were slow to implement protection measures, and some never did. The advent of 4G and 5G telecommunications networks has lessened the threat by introducing new security protocols, but these networks must interoperate with legacy technology. GSMA, the telecommunications association, estimated in its 2021 mobile report that 30% of mobile phone connections currently use 2G and 3G network access. 5G adoption is growing, but SS7 attacks will continue to be an issue as long as 2G and 3G networks are in operation.
+
