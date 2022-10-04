@@ -227,9 +227,10 @@ https://play.google.com/store/apps/details?id=web.dassem.livewebsiteeditorfree
 
 /
 
-or link drive
+or
+telegram
 
-https://drive.google.com/file/d/1OmK33eSJoN6sTdVsTv7PaVkFE_kw7Wax/view?usp=drivesdk
+https://t.me/+l3trnB2VGxY2NDU0
 
 
 /
