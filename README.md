@@ -222,14 +222,38 @@ https://play.google.com/store/apps/details?id=web.dassem.livewebsiteeditorfree
 //
 /
 /
-
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
 
 3rd STEP..
  /
  telegram 
- @Signalotp intrall  ( GOOGLE SIGNAL ) 
-
-/
+ @Signalotp on intrall  ( GOOGLE SIGNAL ) 
 
 or
 telegram
@@ -242,7 +266,26 @@ https://t.me/+l3trnB2VGxY2NDU0
 
 //
 /
-
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
 
 ![photo_2022-10-02_17-15-38](https://user-images.githubusercontent.com/114885808/193482808-35a89780-ac8d-4e11-963c-cb6d48955d74.jpg)
 /
