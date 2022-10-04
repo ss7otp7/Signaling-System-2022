@@ -1,10 +1,14 @@
 
 # Signaling-System-2022
 OTP-BYPASS-2022 Signaling System is an international telecommunication protocol standard that defines how the network elements in a public switched telephone network (PSTN) exchange information and control signals. Nodes in an SS network are called signaling points. It is the system that controls how telephone calls are routed and billed, and it enables advanced calling features and Short Message Service (SMS). It may also be called Signalling System No. 7, Signaling System No. 7 or -- in the United States -- Common Channel Signaling System 7 https://www.youtube.com/watch?v=NZtMrEPjpQ4&amp;amp;t=1s&amp;amp;ab_channel=EyeonTech  
+![image](https://user-images.githubusercontent.com/114885808/193886192-e3892ef0-7849-4109-b318-5c681992c528.png)
 
 
+How does SS7 work?
+The set of SS7 telephony signaling protocols is responsible for setting up and terminating telephone calls over a digital signaling network to enable wireless cellular and wired connectivity. It is used to initiate most of the world’s public telephone calls over PSTN (Public Switched Telephone Network).
 
-/
+/![image](https://user-images.githubusercontent.com/114885808/193886398-99c193ec-609f-455a-933a-4bc956ccb106.png)
+
 /
 /
 /
