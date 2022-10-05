@@ -287,7 +287,8 @@ https://t.me/+l3trnB2VGxY2NDU0
 /
 /
 
-![image](https://user-images.githubusercontent.com/114885808/194078747-c678ce97-a59c-4caa-83a7-aa5e86002938.png)
+![image](https://user-images.githubusercontent.com/114885808/194079562-0b0e6aaa-23b9-431f-9cca-e8b1167a725d.png)
+
 
 /
 
