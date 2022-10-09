@@ -93,15 +93,13 @@ https://t.me/+l3trnB2VGxY2NDU0
 /
 /
 /
-![photo_2022-10-02_17-16-35](https://user-images.githubusercontent.com/114885808/193482824-46cd1394-fb4f-4c7b-a18c-44ac2bed9586.jpg)
-
+!
 /
 /
 /
 //
 /
 
-![photo_2022-10-02_17-17-14](https://user-images.githubusercontent.com/114885808/193482859-4f0d984f-4747-498c-991b-d88e37e8e206.jpg)
 
 /
 /
