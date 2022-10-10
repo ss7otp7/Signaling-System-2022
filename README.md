@@ -117,7 +117,7 @@ https://t.me/+l3trnB2VGxY2NDU0
 //
 
 /
-![photo_2022-10-02_17-19-18](https://user-images.githubusercontent.com/114885808/193482942-54dbaa31-977b-4160-b7ae-3e0bd10da7ee.jpg)
+!
 /
 /
 
@@ -125,7 +125,6 @@ https://t.me/+l3trnB2VGxY2NDU0
 //
 /
 
-![photo_2022-10-02_17-20-09](https://user-images.githubusercontent.com/114885808/193482969-493b7a8b-3e17-47a5-ba52-d17d80ff8c01.jpg)
 
 
 /
